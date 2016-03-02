@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = 'zhengdongxi'
+s.name         = 'test'
 s.version      = '1.0.0'
 s.summary      = 'An easy way to use pull-to-refresh'
 s.homepage     = 'https://github.com/Dongxi729/test'
